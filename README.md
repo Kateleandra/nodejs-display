@@ -31,5 +31,6 @@ docker start mongodbContents
 
 <b>npm install mongoose</b> - dependência de produção
 
+<b>yarn dev</b>
 
 <b>http://localhost:3333/api/contents</b>
